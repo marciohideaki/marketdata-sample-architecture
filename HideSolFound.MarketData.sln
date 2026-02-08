@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideSolFound.MarketData.Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideSolFound.MarketData.Consumer", "src\HideSolFound.MarketData.Consumer\HideSolFound.MarketData.Consumer.csproj", "{8B04AD5E-AD0F-400D-9EF2-CB4C49C82021}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideSolFound.MarketData.Benchmarks", "src\HideSolFound.MarketData.Benchmarks\HideSolFound.MarketData.Benchmarks.csproj", "{4E6CBD1F-F48D-43FD-9C82-74B015149E63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,18 @@ Global
 		{8B04AD5E-AD0F-400D-9EF2-CB4C49C82021}.Release|x64.Build.0 = Release|Any CPU
 		{8B04AD5E-AD0F-400D-9EF2-CB4C49C82021}.Release|x86.ActiveCfg = Release|Any CPU
 		{8B04AD5E-AD0F-400D-9EF2-CB4C49C82021}.Release|x86.Build.0 = Release|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Debug|x64.Build.0 = Debug|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Debug|x86.Build.0 = Debug|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Release|x64.ActiveCfg = Release|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Release|x64.Build.0 = Release|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Release|x86.ActiveCfg = Release|Any CPU
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,5 +94,6 @@ Global
 		{2B82D632-806A-43F9-AEBC-12B1D7019F88} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 		{C461C28A-9E37-4443-A3AD-D99DC56C0B64} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 		{8B04AD5E-AD0F-400D-9EF2-CB4C49C82021} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{4E6CBD1F-F48D-43FD-9C82-74B015149E63} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 	EndGlobalSection
 EndGlobal
