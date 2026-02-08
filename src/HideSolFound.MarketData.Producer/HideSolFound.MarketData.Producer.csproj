@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+    <NoWarn>CA1416</NoWarn>
+    <Description>Synthetic market data producer for shared-memory ring buffer testing</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HideSolFound.MarketData.Core\HideSolFound.MarketData.Core.csproj" />
+  </ItemGroup>
+
+</Project>

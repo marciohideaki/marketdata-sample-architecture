@@ -1,0 +1,14 @@
+**/.git
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/node_modules
+**/.idea
+**/BenchmarkDotNet.Artifacts
+*.md
+!README.md
+LICENSE
+.editorconfig
+.gitignore
+.dockerignore
