@@ -1,0 +1,17 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Company>Hideaki Solution Foundation</Company>
+    <Authors>Hideaki Solution Foundation</Authors>
+    <Product>HideSolFound Market Data</Product>
+    <Copyright>Copyright (c) 2025 Hideaki Solution Foundation</Copyright>
+  </PropertyGroup>
+</Project>
